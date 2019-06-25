@@ -1,4 +1,4 @@
-Hello World style demo for sitecore. 
+#Hello World style demo for sitecore. 
 
 I've removed the provided components from /data/routes to effectively hide them.
 
